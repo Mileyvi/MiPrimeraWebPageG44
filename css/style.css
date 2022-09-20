@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(75, 134, 132);
+    text-align: center;
+    border: 5px solid; 
+    padding: 20px;
+  }
+  .parrafo {
+    color: brown;
+    font-style: italic;
+    text-align: right;
+  }
